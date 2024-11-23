@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/A0Z0RA25/STEM_STORE/static/css/main.3ba93c89.css",
-    "main.js": "/A0Z0RA25/STEM_STORE/static/js/main.90b6dff7.js",
-    "static/js/453.673342f2.chunk.js": "/A0Z0RA25/STEM_STORE/static/js/453.673342f2.chunk.js",
-    "static/media/ribbon.png": "/A0Z0RA25/STEM_STORE/static/media/ribbon.f17cfa24d394bb95b814.png",
-    "static/media/logo.svg": "/A0Z0RA25/STEM_STORE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/A0Z0RA25/STEM_STORE/index.html",
-    "main.3ba93c89.css.map": "/A0Z0RA25/STEM_STORE/static/css/main.3ba93c89.css.map",
-    "main.90b6dff7.js.map": "/A0Z0RA25/STEM_STORE/static/js/main.90b6dff7.js.map",
-    "453.673342f2.chunk.js.map": "/A0Z0RA25/STEM_STORE/static/js/453.673342f2.chunk.js.map"
+    "main.css": "/STEM_STORE/static/css/main.3ba93c89.css",
+    "main.js": "/STEM_STORE/static/js/main.d175d062.js",
+    "static/js/453.673342f2.chunk.js": "/STEM_STORE/static/js/453.673342f2.chunk.js",
+    "static/media/ribbon.png": "/STEM_STORE/static/media/ribbon.f17cfa24d394bb95b814.png",
+    "static/media/logo.svg": "/STEM_STORE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/STEM_STORE/index.html",
+    "main.3ba93c89.css.map": "/STEM_STORE/static/css/main.3ba93c89.css.map",
+    "main.d175d062.js.map": "/STEM_STORE/static/js/main.d175d062.js.map",
+    "453.673342f2.chunk.js.map": "/STEM_STORE/static/js/453.673342f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ba93c89.css",
-    "static/js/main.90b6dff7.js"
+    "static/js/main.d175d062.js"
   ]
 }
